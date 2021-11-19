@@ -1,0 +1,2 @@
+body{display:grid}.display{text-align:right;font-size:25px;height:30px}.numbers{display:grid;grid-template-columns:repeat(3,1fr)}.numbers:nth-child(10){grid-template-columns:100fr}.operators{display:grid;grid-template-columns:repeat(3,1fr)}
+/*# sourceMappingURL=main.992f0974.chunk.css.map */
